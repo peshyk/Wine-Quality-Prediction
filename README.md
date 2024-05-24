@@ -1,5 +1,5 @@
 # Wine-Quality-Prediction
-
+![](https://www.quickanddirtytips.com/wp-content/uploads/2013/08/4-Ways-to-Know-if-Your-Wine-Is-Good.png)
 ## Project Overview:
 The focus of the Wine Quality Prediction project is to develop machine learning models that can accurately predict the quality of wines based on their physicochemical properties. The dataset used in this project contains 1143 observations and 13 features, with 12 independent variables representing various physicochemical attributes and one target variable, "good-quality," indicating whether a wine is of good quality or not.
 
@@ -10,7 +10,6 @@ The dataset comprises a comprehensive collection of physicochemical measurements
 The dataset includes the following columns:
 |Column|Description|
 |---|---|
-|Unnamed: 0|Index|
 |fixed acidity|Fixed acidity level of the wine|
 |volatile acidity|Volatile acidity level of the wine|
 |citric acid|Citric acid content of the wine|
